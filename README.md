@@ -4,9 +4,11 @@ collection of linalg algorithms
 ## collection
  - matrix addition, subtraction, division and multiplication
  - dot product
- - matrix solving
- - independency checking
  - derivadent
+ - raise the matrix to a power
+ - inverse matrix
+ - independency checking
+ - matrix solving
 
  ### operation
 
