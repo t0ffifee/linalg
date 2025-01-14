@@ -1,7 +1,5 @@
 
 
-# Linear Algebra
-
 ## Important Formulas
 
 ### Vector Distance
