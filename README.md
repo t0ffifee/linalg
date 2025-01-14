@@ -1,15 +1,9 @@
-# linalg
-collection of linalg algorithms
 
-## collection
- - matrix addition, subtraction, division and multiplication
- - dot product
- - derivadent
- - raise the matrix to a power
- - inverse matrix
- - independency checking
- - matrix solving
 
- ### operation
+# Linear Algebra
 
- ### dot product
+## Important Formulas
+
+### Vector Distance
+
+$$\sqrt{x^2 + y^2}$$
